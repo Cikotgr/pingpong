@@ -1,5 +1,5 @@
 # pingpong
 
 file | jenis |
---------------
-main | python |
+-----|-------|
+main | python|
