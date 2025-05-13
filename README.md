@@ -1,5 +1,5 @@
-# pingpong
+# Protoype pingpong
 
-file | jenis |
------|-------|
-main | python|
+_ini hanya prototpe_
+Game ini merupakan prototype game pingpong
+
