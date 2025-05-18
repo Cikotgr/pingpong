@@ -1,5 +1,5 @@
 # Protoype pingpong
 
-_ini hanya prototpe_
-Game ini merupakan prototype game pingpong
+*ini hanya prototpe*
+**Game ini merupakan prototype game pingpong**
 
